@@ -1,0 +1,94 @@
+{
+  "characters" : [
+    {
+      "author" : "Avatar Reminder",
+      "id" : "disco",
+      "name" : "Disco",
+      "pack" : "packs/disco.avatarpack",
+      "sha256" : "60525db6d70dde10ae3e734b6bdc4946356997ee5f15f9ffc378f7cbac7159c9",
+      "size" : 1002885,
+      "summary" : "Always dressed for a party",
+      "thumbnail" : "thumbnails/disco.png",
+      "version" : "1.0.0"
+    },
+    {
+      "author" : "Avatar Reminder",
+      "id" : "frost",
+      "name" : "Frost",
+      "pack" : "packs/frost.avatarpack",
+      "sha256" : "517e6506140c1f62d49ec8716651cabcb2c769f4777ace8533ad5708f944ddf8",
+      "size" : 912767,
+      "summary" : "Cool as ice, in shades and a beanie",
+      "thumbnail" : "thumbnails/frost.png",
+      "version" : "1.0.0"
+    },
+    {
+      "author" : "Avatar Reminder",
+      "id" : "honey",
+      "name" : "Honey",
+      "pack" : "packs/honey.avatarpack",
+      "sha256" : "94687d3d243fc062324101555d20666f43dce8ce5d655e5678d4534d4145be94",
+      "size" : 1107386,
+      "summary" : "A sweet striped bunny with a mug",
+      "thumbnail" : "thumbnails/honey.png",
+      "version" : "1.0.0"
+    },
+    {
+      "author" : "Avatar Reminder",
+      "id" : "kiwi",
+      "name" : "Kiwi",
+      "pack" : "packs/kiwi.avatarpack",
+      "sha256" : "27ffcc0bf0665bc573099aacbcb2dc56e7920313d646941ad0c7f9fc2b2e1a0e",
+      "size" : 998923,
+      "summary" : "A cheerful green frog-bear in specs",
+      "thumbnail" : "thumbnails/kiwi.png",
+      "version" : "1.0.0"
+    },
+    {
+      "author" : "Avatar Reminder",
+      "id" : "marina",
+      "name" : "Marina",
+      "pack" : "packs/marina.avatarpack",
+      "sha256" : "e9972c5cfab01b42fd8429fc02831f09d63279da9fd5c2745e49892b2e8c6cd7",
+      "size" : 851704,
+      "summary" : "Sea-green royalty with a golden crown",
+      "thumbnail" : "thumbnails/marina.png",
+      "version" : "1.0.0"
+    },
+    {
+      "author" : "Avatar Reminder",
+      "id" : "moon",
+      "name" : "Moon",
+      "pack" : "packs/moon.avatarpack",
+      "sha256" : "a1d1295cd68de4965d5e329468dac589442fb53b64a254a44f94f60a8270fea8",
+      "size" : 794270,
+      "summary" : "A calm little moon with an antenna",
+      "thumbnail" : "thumbnails/moon.png",
+      "version" : "1.0.0"
+    },
+    {
+      "author" : "Avatar Reminder",
+      "id" : "poppy",
+      "name" : "Poppy",
+      "pack" : "packs/poppy.avatarpack",
+      "sha256" : "b9e39a0d476505a0ca6fa4b053e8dee8cd1351815cf9b599dd8eb15389efe941",
+      "size" : 968958,
+      "summary" : "A spotty pink bear in round glasses",
+      "thumbnail" : "thumbnails/poppy.png",
+      "version" : "1.0.0"
+    },
+    {
+      "author" : "Avatar Reminder",
+      "id" : "toast",
+      "name" : "Toast",
+      "pack" : "packs/toast.avatarpack",
+      "sha256" : "a503613a2fa20e485d9dfe3256d52411fad56ac032a7140d3393455adf02e7d7",
+      "size" : 995196,
+      "summary" : "A toasty little box who never misses a beat",
+      "thumbnail" : "thumbnails/toast.png",
+      "version" : "1.0.0"
+    }
+  ],
+  "title" : "Avatar Reminder Gallery",
+  "version" : 1
+}
